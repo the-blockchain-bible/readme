@@ -13,7 +13,7 @@
 
 ## Materials
 
-- [区块链圣经](https://raw.githubusercontent.com/xblockchain/pm8/master/assets/materials/The-BlockChain-Bible.pdf) 区块链圣经
+- [区块链圣经](https://raw.githubusercontent.com/the-blockchain-bible/readme/master/assets/materials/The-BlockChain-Bible.pdf) 区块链圣经
 
 
 ## Videos
