@@ -51,6 +51,6 @@ Hyperledger learning courses,for blockchain technical beginners  [start](https:/
 
 ![微信公众号](https://raw.githubusercontent.com/the-blockchain-bible/readme/master/assets/official.png)
 
-![区块链晚8点社群](http://mp.weixin.qq.com/s/6LUlhJNCbZRZcq0IvSntsg) 欢迎加入我们!
+[区块链晚8点社群](http://mp.weixin.qq.com/s/6LUlhJNCbZRZcq0IvSntsg) 欢迎加入我们!
 
-![Blockchain 8 PM Community](http://mp.weixin.qq.com/s/6LUlhJNCbZRZcq0IvSntsg) Welcome join us!
+[Blockchain 8 PM Community](http://mp.weixin.qq.com/s/6LUlhJNCbZRZcq0IvSntsg) Welcome join us!
