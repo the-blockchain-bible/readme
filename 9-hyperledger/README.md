@@ -9,6 +9,10 @@
 - [大中华区技术工作组](https://wiki.hyperledger.org/groups/tsc/technical-working-group-china)
 - [中文文档翻译](https://hyperledgercn.github.io/hyperledgerDocs/)
 
+## Overview
+
+![Hyperlegder family](https://raw.githubusercontent.com/the-blockchain-bible/readme/master/assets/home.png)
+
 ## Start 
 
 - [Blockchain区块链架构设计之一：成员管理](https://zhuanlan.zhihu.com/p/23356616)
@@ -41,4 +45,5 @@
 ## Videos
 
 - [What is Hyperledger - Tutorial for Beginners](https://youtu.be/Y177TCUc4g0) What is Hyperledger - Tutorial for Beginners
+- [Cracking Blockchain Basics with Hyperledger](https://youtu.be/QQcOOcxmjCM)
 
