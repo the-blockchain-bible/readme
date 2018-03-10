@@ -44,6 +44,6 @@
 
 ## Videos
 
-- [What is Hyperledger - Tutorial for Beginners](https://youtu.be/Y177TCUc4g0) What is Hyperledger - Tutorial for Beginners
+- [What is Hyperledger - Tutorial for Beginners](https://youtu.be/Y177TCUc4g0) 
 - [Cracking Blockchain Basics with Hyperledger](https://youtu.be/QQcOOcxmjCM)
 
