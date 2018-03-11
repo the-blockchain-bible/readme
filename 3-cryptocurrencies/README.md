@@ -2,7 +2,7 @@
 
 ## Crypto Currencies Leaderboard
 
-The visualization is from [Nick Young](https://github.com/nickwb/cryptographic)the data is from [coinmarketcap.com](https://coinmarketcap.com/)
+The visualization is from [Nick Young](https://github.com/nickwb/cryptographic), data is from [coinmarketcap.com](https://coinmarketcap.com/)
 
 ![Crypto Currency Leaderboard](https://raw.githubusercontent.com/the-blockchain-bible/readme/master/assets/cryptocurrency.png)
 
