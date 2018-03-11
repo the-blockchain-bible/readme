@@ -11,7 +11,7 @@
 
 ## Overview
 
-![Hyperlegder family](https://raw.githubusercontent.com/the-blockchain-bible/readme/master/assets/hyperledger-history.png)
+![Hyperlegder family](https://raw.githubusercontent.com/the-blockchain-bible/readme/master/assets/hyperledger.png)
 
 ## Start 
 
