@@ -2,6 +2,7 @@
 
 ## Start 
 
+- [区块链入门教程](http://www.ruanyifeng.com/blog/2017/12/blockchain-tutorial.html)阮一峰的网络日志
 - [区块链技术指南](https://yeasy.gitbooks.io/blockchain_guide) 区块链领域比较系统的入门资料
 - [一步一步学区块链](http://blog.csdn.net/jwter87/article/details/53322642) 按步骤的实际操作入门指南
 - [区块链技术-智能合约-以太坊](http://ethfans.org/posts/block-chain-technology-smart-contracts-and-ethereum) 以太坊智能合约入门概念

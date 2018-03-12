@@ -1,5 +1,9 @@
 # The Blockchain Bible
 
+## Start
+
+- [加密货币的本质](http://www.ruanyifeng.com/blog/2018/01/cryptocurrency-tutorial.html) 阮一峰的网络日志
+
 ## Crypto Currencies Leaderboard
 
 The visualization is from [Nick Young](https://github.com/nickwb/cryptographic), data is from [coinmarketcap.com](https://coinmarketcap.com/)
