@@ -10,6 +10,7 @@
 - [（一）简单易懂地介绍什么是区块链](https://zhuanlan.zhihu.com/p/22228902) 比特币区块链关键词讲解
 - [（二）简单易懂地介绍什么是区块链（技术篇）](https://zhuanlan.zhihu.com/p/23243289) 比特币区块链技术图解
 - [一文看懂区块链架构设计](http://www.8btc.com/ebook-blockchain) 从技术分层解构架构
+- [Comparison of Ethereum, Hyperledger Fabric and Corda](https://medium.com/@philippsandner/comparison-of-ethereum-hyperledger-fabric-and-corda-21c1bb9442f6)
 
 
 ## Materials

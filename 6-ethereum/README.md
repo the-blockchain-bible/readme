@@ -4,8 +4,16 @@
 
 - [以太坊开发入门，完整入门篇](http://me.tryblockchain.org/getting-up-to-speed-on-ethereum.html)
 - [Getting Up to Speed on Ethereum](https://medium.com/@mattcondon/getting-up-to-speed-on-ethereum-63ed28821bbe)
+- [Ethereum 简介](http://ibloodline.com/articles/2018/01/30/ethereum.html)
+- [为什么以太坊不仅仅是一个加密货币](http://liuchengxu.org/blog-cn/posts/ethereum-ultimate-guide/)
+- [深入浅出区块链-以太坊](https://learnblockchain.cn/categories/ethereum/)
 
--[Merkle Patricia Tree 梅克尔帕特里夏树（MPT）规范](http://me.tryblockchain.org/Ethereum-MerklePatriciaTree.html)
+## Tokens
+- [A beginner’s guide to Ethereum tokens](https://blog.coinbase.com/a-beginners-guide-to-ethereum-tokens-fbd5611fe30b)
+
+## White paper
+- [White Paper](A Next-Generation Smart Contract and Decentralized Application Platform)
+- [以太坊白皮书](https://github.com/ethereum/wiki/wiki/%5B%E4%B8%AD%E6%96%87%5D-%E4%BB%A5%E5%A4%AA%E5%9D%8A%E7%99%BD%E7%9A%AE%E4%B9%A6)
 
 
 ## Interviews

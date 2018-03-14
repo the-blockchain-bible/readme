@@ -3,6 +3,7 @@
 ## Start
 
 - [加密货币的本质](http://www.ruanyifeng.com/blog/2018/01/cryptocurrency-tutorial.html) 阮一峰的网络日志
+- [加密货币简介](http://ibloodline.com/articles/2018/01/19/cryptocurrency-hash.html)
 
 ## Crypto Currencies Leaderboard
 
