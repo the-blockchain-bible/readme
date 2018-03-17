@@ -39,3 +39,6 @@
 
 - [Ethereum in 25 Minutes](https://www.youtube.com/watch?v=66SaEDzlmP4)
 - [Programmer explains Ethereum Web 3.0 | Evolution of Internet](https://youtu.be/TCiQkSaHidk)
+
+# -about
+![微信公众号](https://raw.githubusercontent.com/the-blockchain-bible/readme/master/assets/official.png)
