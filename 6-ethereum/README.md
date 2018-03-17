@@ -26,7 +26,8 @@
 - [A Guide to Building Your First Decentralized Application](https://youtu.be/gSQXq2_j-mw)
 - [Pet Shop](http://truffleframework.com/tutorials/pet-shop)
 - [Ethereum for web developers](https://medium.com/@mvmurthy/ethereum-for-web-developers-890be23d1d0c)
-- [Full Stack Hello World Voting Ethereum Dapp Tutorial](https://medium.com/@mvmurthy/full-stack-hello-world-voting-ethereum-dapp-tutorial-part-1-40d2d0d807c2)
+- [Full Stack Hello World Voting Ethereum Dapp Tutorial — Part 1](https://medium.com/@mvmurthy/full-stack-hello-world-voting-ethereum-dapp-tutorial-part-1-40d2d0d807c2)
+- [Full Stack Hello World Voting Ethereum Dapp Tutorial — Part 2](https://medium.com/@mvmurthy/full-stack-hello-world-voting-ethereum-dapp-tutorial-part-2-30b3d335aa1f)
 - [Dapps for Beginners](https://dappsforbeginners.wordpress.com/)
 
 ## Interviews
