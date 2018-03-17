@@ -4,7 +4,8 @@
 - [比特币入门教程](http://www.ruanyifeng.com/blog/2018/01/bitcoin-tutorial.html) 阮一峰的网络日志
 - [精通比特币](http://ibloodline.com/articles/2018/01/26/master-bitcoin.html)
 - [比特币如何实现去中心化](http://ibloodline.com/articles/2018/01/20/decentralization.html)
-- 
+- [Mastering Bitcoin 2nd Edition - Programming the Open Blockchain](https://github.com/bitcoinbook/bitcoinbook)
+- [精通比特币](https://bitcoinbook.info/wp-content/translations/cmn/book.pdf)
 
 ## White paper
 - [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
