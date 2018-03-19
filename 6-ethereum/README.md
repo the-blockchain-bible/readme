@@ -11,7 +11,10 @@
 - [A 101 Noob Intro to Programming Smart Contracts on Ethereum](https://medium.com/@ConsenSys/a-101-noob-intro-to-programming-smart-contracts-on-ethereum-695d15c1dab4)
 - [Ethereum is the Forefront of Digital Currency](https://blog.coinbase.com/ethereum-is-the-forefront-of-digital-currency-5300298f6c75)
 - [A beginner’s guide to Ethereum](https://blog.coinbase.com/a-beginners-guide-to-ethereum-46dd486ceecf)
+- [How to Build a Private Ethereum Blockchain](https://media.consensys.net/how-to-build-a-private-ethereum-blockchain-fbf3904f337)
 
+## Network
+- [玩转以太坊(Ethereum)的测试网络](https://zhuanlan.zhihu.com/p/29010231)
 
 ## Tokens
 - [A beginner’s guide to Ethereum tokens](https://blog.coinbase.com/a-beginners-guide-to-ethereum-tokens-fbd5611fe30b)
@@ -26,7 +29,7 @@
 - [A Guide to Building Your First Decentralized Application](https://youtu.be/gSQXq2_j-mw)
 - [Pet Shop](http://truffleframework.com/tutorials/pet-shop)
 - [Ethereum for web developers](https://medium.com/@mvmurthy/ethereum-for-web-developers-890be23d1d0c)
-- [Full Stack Hello World Voting Ethereum Dapp Tutorial — Part 1](https://medium.com/@mvmurthy/full-stack-hello-world-voting-ethereum-dapp-tutorial-part-1-40d2d0d807c2)
+- [Full Stack Hello World Voting Ethereum Dapp Tutorial — Part 1](https://medium.com/@mvmurthy/full-stack-hello-world-voting-ethereum-dapp-tutorial-part-1-40d2d0d807c2) [Guide](https://www.zastrin.com/courses/1/lessons/1-1)
 - [Full Stack Hello World Voting Ethereum Dapp Tutorial — Part 2](https://medium.com/@mvmurthy/full-stack-hello-world-voting-ethereum-dapp-tutorial-part-2-30b3d335aa1f)
 - [Dapps for Beginners](https://dappsforbeginners.wordpress.com/)
 
