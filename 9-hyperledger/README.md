@@ -4,7 +4,7 @@
 
 - [Official website](https://www.hyperledger.org/)
 - [Git mirror](https://github.com/hyperledger)
-- [Online Docs](http://hyperledger-fabric.readthedocs.io/) `switch to the exact version`
+- [Online Docs](http://hyperledger-fabric.readthedocs.io/)
 - [community Working Groups](https://wiki.hyperledger.org/doku.php?id=start#community_working_groups_wg)
 - [大中华区技术工作组](https://wiki.hyperledger.org/groups/tsc/technical-working-group-china)
 - [中文文档翻译](https://hyperledgercn.github.io/hyperledgerDocs/)

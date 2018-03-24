@@ -12,6 +12,7 @@
 - [Ethereum is the Forefront of Digital Currency](https://blog.coinbase.com/ethereum-is-the-forefront-of-digital-currency-5300298f6c75)
 - [A beginner’s guide to Ethereum](https://blog.coinbase.com/a-beginners-guide-to-ethereum-46dd486ceecf)
 - [How to Build a Private Ethereum Blockchain](https://media.consensys.net/how-to-build-a-private-ethereum-blockchain-fbf3904f337)
+- [以太中文网](http://www.ethchinese.com/)
 
 ## Network
 - [玩转以太坊(Ethereum)的测试网络](https://zhuanlan.zhihu.com/p/29010231)
