@@ -48,5 +48,5 @@
 - [What is Hyperledger - Tutorial for Beginners](https://youtu.be/Y177TCUc4g0) 
 - [Cracking Blockchain Basics with Hyperledger](https://youtu.be/QQcOOcxmjCM)
 
-# -about
+# About
 ![微信公众号](https://raw.githubusercontent.com/the-blockchain-bible/readme/master/assets/official.png)
