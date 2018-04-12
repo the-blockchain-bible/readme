@@ -15,8 +15,26 @@
 - [观点 | Vitalik：去中心化的意涵](http://ethfans.org/posts/the-meaning-of-decentralization)
 
 
-## Materials
+## Media & Materials
 
+- [CryptoHackers](https://cryptohackers.party/) - Cryptoworld超级英雄采访。迷人的事实，团队内部和成功的故事。
+- [CoinTelegraph](https://cointelegraph.com/) - 提供最新消息，分析，专家意见，社区评论的主要刊物。成立于2013年。
+- [CoinDesk](https://www.coindesk.com/) - CoinDesk是全球数字货币新闻和信息的领导者。 17M用户。
+- [CryptoCoins 新闻](http://www.cryptocoinsnews.com/) - 新鲜的新闻和分析。这个巨大的博客帖子非常频繁。每月约7M读者。
+- [比特币杂志](https://bitcoinmagazine.com/) - 比特币杂志是最新和最成熟的新闻，信息和专家评论的来源。有时帖子很深，很有趣的文章。
+- [99 比特币](https://99bitcoins.com/) - 99 比特币是非技术新手最大的信息来源。
+- [Coin Speaker](https://www.coinspeaker.com/) - CoinSpeaker成立于2014年，是最有影响力的新闻来源之一。
+- [The Memory Pool](http://nakamotoinstitute.org/mempool/) - 中本聪学院博客。
+- [Tim Swanson Blog](http://www.ofnumbers.com/category/bitcoin/) - R3 的市场研究总监博客。
+- [Oleg Andreev Blog](http://blog.oleganza.com/) - Chain.com 硬核开发者，产品架构师的博客。
+- [Freedom to Tinker](https://freedom-to-tinker.com/tag/bitcoin/) - 普林斯顿托管科技博客：研究和专家评论。
+- [Money and State](http://moneyandstate.com/) - Erik Voorhees的博客，领先的数字资产交易所 ShapeShift.io 的首席执行官。
+- [Gavin Andersesn Blog](http://gavinandresen.ninja/) - 比特币开发人员的博客。
+- [Peter Todd Blog](https://petertodd.org/) - 应用密码学顾问的博客。
+- [Richard Brown Blog](https://gendal.me/tag/bitcoin/) - R3CEV 技术负责人博客。
+- [Laanwj Blog](https://laanwj.github.io/) -  比特币核心开发人员和逆向工程师的博客。
+- [Crypto Analyst](https://www.cryptoanalyst.co/) - 全球首屈一指的加密货币新闻分析。
+- [Bitrazzi](https://bitrazzi.com/) - 比特币，加密货币和区块链新闻。
 - [区块链圣经](https://raw.githubusercontent.com/the-blockchain-bible/readme/master/assets/materials/The-BlockChain-Bible.pdf) 
 
 ## Videos
