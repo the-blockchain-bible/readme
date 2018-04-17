@@ -17,12 +17,13 @@
 ## Network
 - [玩转以太坊(Ethereum)的测试网络](https://zhuanlan.zhihu.com/p/29010231)
 
-## Tokens
+## Tokens & ICO
 - [A beginner’s guide to Ethereum tokens](https://blog.coinbase.com/a-beginners-guide-to-ethereum-tokens-fbd5611fe30b)
 - [Understanding ERC-20 token contracts](https://medium.com/@jgm.orinoco/understanding-erc-20-token-contracts-a809a7310aa5)
 - [理解ERC-20 token合约](https://ethfans.org/ajian1984/articles/686)
 - [一步步教你创建自己的数字货币（代币）进行ICO](https://learnblockchain.cn/2018/01/12/create_token/)
 - [Solidity编程语言](http://www.tryblockchain.org/)
+- Code Your Own Cryptocurrency & ICO on Ethereum [Part1](https://youtu.be/W0Lomo8CdTM) [Part2](https://youtu.be/044h0ZI-fDI) [Part3](https://youtu.be/jfFgecLL8UA) [Part4](https://youtu.be/uVUMyyiqFAI) [Part5](https://youtu.be/KT5PdaFpuvY) [Part6](https://youtu.be/ftKWYnu6xz8) [Part7](https://youtu.be/0oOnVrb8OyA) [Part8](https://youtu.be/ycRwfHM1RBk)
 
 ## White paper
 - [White Paper](https://github.com/ethereum/wiki/wiki/White-Paper)
