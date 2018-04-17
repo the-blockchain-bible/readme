@@ -23,7 +23,7 @@
 - [理解ERC-20 token合约](https://ethfans.org/ajian1984/articles/686)
 - [一步步教你创建自己的数字货币（代币）进行ICO](https://learnblockchain.cn/2018/01/12/create_token/)
 - [Solidity编程语言](http://www.tryblockchain.org/)
-- Code Your Own Cryptocurrency & ICO on Ethereum [Part1](https://youtu.be/W0Lomo8CdTM) [Part2](https://youtu.be/044h0ZI-fDI) [Part3](https://youtu.be/jfFgecLL8UA) [Part4](https://youtu.be/uVUMyyiqFAI) [Part5](https://youtu.be/KT5PdaFpuvY) [Part6](https://youtu.be/ftKWYnu6xz8) [Part7](https://youtu.be/0oOnVrb8OyA) [Part8](https://youtu.be/ycRwfHM1RBk)
+- Code Your Own Cryptocurrency & ICO on Ethereum | [Part1](https://youtu.be/W0Lomo8CdTM) |[Part2](https://youtu.be/044h0ZI-fDI) | [Part3](https://youtu.be/jfFgecLL8UA) |[Part4](https://youtu.be/uVUMyyiqFAI) |[Part5](https://youtu.be/KT5PdaFpuvY) |[Part6](https://youtu.be/ftKWYnu6xz8) |[Part7](https://youtu.be/0oOnVrb8OyA) |[Part8](https://youtu.be/ycRwfHM1RBk)
 
 ## White paper
 - [White Paper](https://github.com/ethereum/wiki/wiki/White-Paper)
