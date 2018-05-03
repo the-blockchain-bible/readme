@@ -9,7 +9,7 @@
 - [大中华区技术工作组](https://wiki.hyperledger.org/groups/tsc/technical-working-group-china)
 - [中文文档翻译](https://hyperledgercn.github.io/hyperledgerDocs/)
 - [Hyperledger Fabric- A Distributed Operating System for Permissioned Blockchains](https://raw.githubusercontent.com/the-blockchain-bible/readme/master/assets/materials/Hyperledger-Fabric-A-Distributed-Operating-System-for-Permissioned-Blockchains.pdf) 
-- [Hyperledger Architecture Volume II Smart Contracts](https://raw.githubusercontent.com/the-blockchain-bible/readme/master/assets/materials/Hyperledger Architecture Volume II Smart Contracts.pdf)
+- [Hyperledger Architecture Volume II Smart Contracts](https://raw.githubusercontent.com/the-blockchain-bible/readme/master/assets/materials/Hyperledger-Architecture-Volume-II-Smart-Contracts.pdf)
 
 ## Overview
 
