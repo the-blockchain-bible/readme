@@ -9,6 +9,7 @@
 - [大中华区技术工作组](https://wiki.hyperledger.org/groups/tsc/technical-working-group-china)
 - [中文文档翻译](https://hyperledgercn.github.io/hyperledgerDocs/)
 - [Hyperledger Fabric- A Distributed Operating System for Permissioned Blockchains](https://raw.githubusercontent.com/the-blockchain-bible/readme/master/assets/materials/Hyperledger-Fabric-A-Distributed-Operating-System-for-Permissioned-Blockchains.pdf) 
+- [Hyperledger Architecture Volume II Smart Contracts](https://raw.githubusercontent.com/the-blockchain-bible/readme/master/assets/materials/Hyperledger Architecture Volume II Smart Contracts.pdf)
 
 ## Overview
 
@@ -24,6 +25,7 @@
 - [Blockchain区块链架构设计之六：Fabric 1.0账本设计（1）](https://zhuanlan.zhihu.com/p/25119939)
 - [Blockchain区块链架构设计之七：Fabric 1.0 Endorse背书策略](https://zhuanlan.zhihu.com/p/25295608)
 - [Hyperledger架构解读：Hyperledger Fabric1.0架构概览](http://www.wanbizu.com/blockchain/201702078984.html)
+- [Hyperledger fabric v1.0多机多组织网络构建](http://tech.lede.com/2018/03/26/rd/server/HyperledgerFabricNetwork/)
 
 
 ## Materials
