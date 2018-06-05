@@ -37,6 +37,7 @@
 - [Crypto Analyst](https://www.cryptoanalyst.co/) - 全球首屈一指的加密货币新闻分析。
 - [Bitrazzi](https://bitrazzi.com/) - 比特币，加密货币和区块链新闻。
 - [区块链圣经](https://raw.githubusercontent.com/the-blockchain-bible/readme/master/assets/materials/The-BlockChain-Bible.pdf) 
+- [Blockchain For Dummies IBM Limited Edition](https://raw.githubusercontent.com/the-blockchain-bible/readme/master/assets/materials/Blockchain-For-Dummies-IBM-Limited-Edition.pdf)
 
 ## Videos
 
