@@ -10,6 +10,7 @@
 - [中文文档翻译](https://hyperledgercn.github.io/hyperledgerDocs/)
 - [Hyperledger Fabric- A Distributed Operating System for Permissioned Blockchains](https://raw.githubusercontent.com/the-blockchain-bible/readme/master/assets/materials/Hyperledger-Fabric-A-Distributed-Operating-System-for-Permissioned-Blockchains.pdf) 
 - [Hyperledger Architecture Volume II Smart Contracts](https://raw.githubusercontent.com/the-blockchain-bible/readme/master/assets/materials/Hyperledger-Architecture-Volume-II-Smart-Contracts.pdf)
+- [Top Technical Advantages Of Hyperledger Fabric For Blockchain Networks](https://raw.githubusercontent.com/the-blockchain-bible/readme/master/assets/materials/top-technical-advantages-of-hyperledger-fabric-for-blockchain-networks.pdf)
 
 ## Overview
 
