@@ -2,7 +2,6 @@
 
 The project is maintained by a non-profit organisation called the **Blockchain 8 PM Community**, along with an amazing collections of blockchain tech,crypto currencies,cryptography,decentralized solutions,business scenarios,hyperledger tech,meetups,etc. We're trying to make continuous commits for changes along with the blockchain tech progress.
 
----
 
 # Start Your Blockchain
 ### 用正确的姿势开发Hyperledger Fabric 系列
@@ -15,12 +14,10 @@ The project is maintained by a non-profit organisation called the **Blockchain 8
 - [用Meteor开发以太坊应用.pdf](https://raw.githubusercontent.com/the-blockchain-bible/readme/master/assets/start-your-blockchain/ethereum/用Meteor开发以太坊应用.pdf)
 - [基于以太坊发行你自己的Token.pdf](https://raw.githubusercontent.com/the-blockchain-bible/readme/master/assets/start-your-blockchain/ethereum/基于以太坊发行你自己的Token.pdf)
 
----
 
 # How to contribute
 First please read [instruction](https://github.com/the-blockchain-bible/readme/wiki) for how to contribute to this work.
 
----
 
 # About
 ![微信公众号](https://raw.githubusercontent.com/the-blockchain-bible/readme/master/assets/official.png)
