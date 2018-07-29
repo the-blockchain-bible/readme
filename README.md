@@ -4,7 +4,7 @@ The project is maintained by a non-profit organisation called the **Blockchain 8
 
 ---
 
-## Start Your Blockchain
+# Start Your Blockchain
 ### 用正确的姿势开发Hyperledger Fabric 系列
 - [Node.js SDK](https://raw.githubusercontent.com/the-blockchain-bible/readme/master/assets/hyperledger-fabric/Node.js-SDK.pdf)
 - [智能合约&账本存储](https://raw.githubusercontent.com/the-blockchain-bible/readme/master/assets/hyperledger-fabric/智能合约&账本存储.pdf)
@@ -17,12 +17,12 @@ The project is maintained by a non-profit organisation called the **Blockchain 8
 
 ---
 
-## How to contribute
+# How to contribute
 First please read [instruction](https://github.com/the-blockchain-bible/readme/wiki) for how to contribute to this work.
 
 ---
 
-## About
+# About
 ![微信公众号](https://raw.githubusercontent.com/the-blockchain-bible/readme/master/assets/official.png)
 
 [区块链晚8点社群](http://mp.weixin.qq.com/s/6LUlhJNCbZRZcq0IvSntsg) 欢迎加入我们!
