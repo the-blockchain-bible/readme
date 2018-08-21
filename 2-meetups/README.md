@@ -6,3 +6,7 @@ The collection copied from [Baohua's collection](https://github.com/yeasy/semina
 ## hyperledger-oversea
 
 From Chris Ferris's Twitter.
+
+## blockchain-qcon
+
+From Qcon Blockchain
