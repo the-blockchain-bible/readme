@@ -16,11 +16,7 @@ The project is maintained by a non-profit organisation called the **Blockchain 8
 - [用Meteor开发以太坊应用](https://mp.weixin.qq.com/s/FX5JwQrPUgvgR9sfoeQjfQ)
 - [基于以太坊发行你自己的Token](https://mp.weixin.qq.com/s/YX1uNKpUGjGn_tf_Ou6hew)
 
-### 用正确的姿势解读区块链
-
-待定...
-
-# How to contribute
+# How To Contribute
 First please read [instruction](https://github.com/the-blockchain-bible/readme/wiki) for how to contribute to this work.
 
 
